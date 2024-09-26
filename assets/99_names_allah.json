@@ -1,0 +1,312 @@
+{
+  "names": [
+    {
+      "arabic": "الرَّحْمَنُ",
+      "romanized": "Ar-Rahman"
+    },
+    {
+      "arabic": "الرَّحِيمُ",
+      "romanized": "Ar-Rahim"
+    },
+    {
+      "arabic": "الْمَلِكُ",
+      "romanized": "Al-Malik"
+    },
+    {
+      "arabic": "الْقُدُّوسُ",
+      "romanized": "Al-Quddus"
+    },
+    {
+      "arabic": "السَّلاَمُ",
+      "romanized": "As-Salam"
+    },
+    {
+      "arabic": "الْمُؤْمِنُ",
+      "romanized": "Al-Mu'min"
+    },
+    {
+      "arabic": "الْمُهَيْمِنُ",
+      "romanized": "Al-Muhaymin"
+    },
+    {
+      "arabic": "الْعَزِيزُ",
+      "romanized": "Al-Aziz"
+    },
+    {
+      "arabic": "الْجَبَّارُ",
+      "romanized": "Al-Jabbar"
+    },
+    {
+      "arabic": "الْمُتَكَبِّرُ",
+      "romanized": "Al-Mutakabbir"
+    },
+    {
+      "arabic": "الْخَالِقُ",
+      "romanized": "Al-Khaliq"
+    },
+    {
+      "arabic": "الْبَارِئُ",
+      "romanized": "Al-Bari'"
+    },
+    {
+      "arabic": "الْمُصَوِّرُ",
+      "romanized": "Al-Musawwir"
+    },
+    {
+      "arabic": "الْغَفَّارُ",
+      "romanized": "Al-Ghaffar"
+    },
+    {
+      "arabic": "الْقَهَّارُ",
+      "romanized": "Al-Qahhar"
+    },
+    {
+      "arabic": "الْوَهَّابُ",
+      "romanized": "Al-Wahhab"
+    },
+    {
+      "arabic": "الرَّزَّاقُ",
+      "romanized": "Ar-Razzaq"
+    },
+    {
+      "arabic": "الْفَتَّاحُ",
+      "romanized": "Al-Fattah"
+    },
+    {
+      "arabic": "العَلِيمُ",
+      "romanized": "Al-Alim"
+    },
+    {
+      "arabic": "الْكَبِيرُ",
+      "romanized": "Al-Kabir"
+    },
+    {
+      "arabic": "الْحَفِيظُ",
+      "romanized": "Al-Hafiz"
+    },
+    {
+      "arabic": "الْمُقيِتُ",
+      "romanized": "Al-Muqit"
+    },
+    {
+      "arabic": "الْحَسِيبُ",
+      "romanized": "Al-Hasib"
+    },
+    {
+      "arabic": "الْجَلِيلُ",
+      "romanized": "Al-Jalil"
+    },
+    {
+      "arabic": "الْكَرِيمُ",
+      "romanized": "Al-Karim"
+    },
+    {
+      "arabic": "الرَّقِيبُ",
+      "romanized": "Ar-Raqib"
+    },
+    {
+      "arabic": "الْمُجِيبُ",
+      "romanized": "Al-Mujib"
+    },
+    {
+      "arabic": "الْوَاسِعُ",
+      "romanized": "Al-Wasi'"
+    },
+    {
+      "arabic": "الْحَكِيمُ",
+      "romanized": "Al-Hakim"
+    },
+    {
+      "arabic": "الْوَدُودُ",
+      "romanized": "Al-Wadud"
+    },
+    {
+      "arabic": "الْمَجِيدُ",
+      "romanized": "Al-Majid"
+    },
+    {
+      "arabic": "الْبَاعِثُ",
+      "romanized": "Al-Ba'ith"
+    },
+    {
+      "arabic": "الشَّهِيدُ",
+      "romanized": "Ash-Shahid"
+    },
+    {
+      "arabic": "الْحَقُّ",
+      "romanized": "Al-Haqq"
+    },
+    {
+      "arabic": "الْوَكِيلُ",
+      "romanized": "Al-Wakil"
+    },
+    {
+      "arabic": "الْقَوِيُ",
+      "romanized": "Al-Qawi"
+    },
+    {
+      "arabic": "الْمَتِينُ",
+      "romanized": "Al-Matin"
+    },
+    {
+      "arabic": "الْوَلِيُّ",
+      "romanized": "Al-Wali"
+    },
+    {
+      "arabic": "الْحَمِيدُ",
+      "romanized": "Al-Hamid"
+    },
+    {
+      "arabic": "الْمُحْصِي",
+      "romanized": "Al-Muhsi"
+    },
+    {
+      "arabic": "الْمُبْدِئُ",
+      "romanized": "Al-Mubdi'"
+    },
+    {
+      "arabic": "الْمُعِيدُ",
+      "romanized": "Al-Mu'id"
+    },
+    {
+      "arabic": "الْمُحْيِي",
+      "romanized": "Al-Muhyi"
+    },
+    {
+      "arabic": "الْمُمِيتُ",
+      "romanized": "Al-Mumit"
+    },
+    {
+      "arabic": "الْحَيُّ",
+      "romanized": "Al-Hayy"
+    },
+    {
+      "arabic": "الْقَيُّومُ",
+      "romanized": "Al-Qayyum"
+    },
+    {
+      "arabic": "الْوَاجِدُ",
+      "romanized": "Al-Wajid"
+    },
+    {
+      "arabic": "الْمَاجِدُ",
+      "romanized": "Al-Majid"
+    },
+    {
+      "arabic": "الْواحِدُ",
+      "romanized": "Al-Wahid"
+    },
+    {
+      "arabic": "الأَحَدُ",
+      "romanized": "Al-Ahad"
+    },
+    {
+      "arabic": "الصَّمَدُ",
+      "romanized": "As-Samad"
+    },
+    {
+      "arabic": "الْخَالِقُ",
+      "romanized": "Al-Khaliq"
+    },
+    {
+      "arabic": "الْبَارِئُ",
+      "romanized": "Al-Bari'"
+    },
+    {
+      "arabic": "الْمُصَوِّرُ",
+      "romanized": "Al-Musawwir"
+    },
+    {
+      "arabic": "الْعَدْلُ",
+      "romanized": "Al-'Adl"
+    },
+    {
+      "arabic": "الْلَّطِيفُ",
+      "romanized": "Al-Latif"
+    },
+    {
+      "arabic": "الْخَبِيرُ",
+      "romanized": "Al-Khabir"
+    },
+    {
+      "arabic": "الْحَلِيمُ",
+      "romanized": "Al-Halim"
+    },
+    {
+      "arabic": "الْعَظِيمُ",
+      "romanized": "Al-Azim"
+    },
+    {
+      "arabic": "الْغَفُورُ",
+      "romanized": "Al-Ghafur"
+    },
+    {
+      "arabic": "الشَّكُورُ",
+      "romanized": "Ash-Shakur"
+    },
+    {
+      "arabic": "الْعَلِيُّ",
+      "romanized": "Al-Ali"
+    },
+    {
+      "arabic": "الْكَبِيرُ",
+      "romanized": "Al-Kabir"
+    },
+    {
+      "arabic": "الْمُقيِتُ",
+      "romanized": "Al-Muqit"
+    },
+    {
+      "arabic": "الْحَفِيظُ",
+      "romanized": "Al-Hafiz"
+    },
+    {
+      "arabic": "الْمُحْصِي",
+      "romanized": "Al-Muhsi"
+    },
+    {
+      "arabic": "الْمُبْدِئُ",
+      "romanized": "Al-Mubdi'"
+    },
+    {
+      "arabic": "الْمُعِيدُ",
+      "romanized": "Al-Mu'id"
+    },
+    {
+      "arabic": "الْمُحْيِي",
+      "romanized": "Al-Muhyi"
+    },
+    {
+      "arabic": "الْمُمِيتُ",
+      "romanized": "Al-Mumit"
+    },
+    {
+      "arabic": "الْحَيُّ",
+      "romanized": "Al-Hayy"
+    },
+    {
+      "arabic": "الْقَيُّومُ",
+      "romanized": "Al-Qayyum"
+    },
+    {
+      "arabic": "الْوَاجِدُ",
+      "romanized": "Al-Wajid"
+    },
+    {
+      "arabic": "الْمَاجِدُ",
+      "romanized": "Al-Majid"
+    },
+    {
+      "arabic": "الْواحِدُ",
+      "romanized": "Al-Wahid"
+    },
+    {
+      "arabic": "الأَحَدُ",
+      "romanized": "Al-Ahad"
+    },
+    {
+      "arabic": "الصَّمَدُ",
+      "romanized": "As-Samad"
+    }
+  ]
+}

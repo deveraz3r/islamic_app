@@ -1,0 +1,448 @@
+{
+  "names": [
+    {
+      "arabic": "مُحَمَّد",
+      "romanized": "Muhammad"
+    },
+    {
+      "arabic": "أحمد",
+      "romanized": "Ahmad"
+    },
+    {
+      "arabic": "الماحي",
+      "romanized": "Al-Mahi"
+    },
+    {
+      "arabic": "الحاشر",
+      "romanized": "Al-Hashir"
+    },
+    {
+      "arabic": "العاقب",
+      "romanized": "Al-Aqib"
+    },
+    {
+      "arabic": "الرسول",
+      "romanized": "Al-Rasul"
+    },
+    {
+      "arabic": "النبي",
+      "romanized": "An-Nabi"
+    },
+    {
+      "arabic": "السراج",
+      "romanized": "As-Siraj"
+    },
+    {
+      "arabic": "البشير",
+      "romanized": "Al-Bashir"
+    },
+    {
+      "arabic": "النذير",
+      "romanized": "An-Nazir"
+    },
+    {
+      "arabic": "المتوكل",
+      "romanized": "Al-Mutawakkil"
+    },
+    {
+      "arabic": "الطيب",
+      "romanized": "At-Tayyib"
+    },
+    {
+      "arabic": "الأمين",
+      "romanized": "Al-Amin"
+    },
+    {
+      "arabic": "الرحمة",
+      "romanized": "Ar-Rahma"
+    },
+    {
+      "arabic": "الهادي",
+      "romanized": "Al-Hadi"
+    },
+    {
+      "arabic": "المعصوم",
+      "romanized": "Al-Masum"
+    },
+    {
+      "arabic": "الأسوة",
+      "romanized": "Al-Uswa"
+    },
+    {
+      "arabic": "الكريم",
+      "romanized": "Al-Karim"
+    },
+    {
+      "arabic": "المبارك",
+      "romanized": "Al-Mubarak"
+    },
+    {
+      "arabic": "الصادق",
+      "romanized": "As-Sadiq"
+    },
+    {
+      "arabic": "الفاتح",
+      "romanized": "Al-Fatih"
+    },
+    {
+      "arabic": "الرحمن",
+      "romanized": "Ar-Rahman"
+    },
+    {
+      "arabic": "الرحيم",
+      "romanized": "Ar-Rahim"
+    },
+    {
+      "arabic": "القدوة",
+      "romanized": "Al-Qudwa"
+    },
+    {
+      "arabic": "الجميل",
+      "romanized": "Al-Jamil"
+    },
+    {
+      "arabic": "الولي",
+      "romanized": "Al-Wali"
+    },
+    {
+      "arabic": "المعجزة",
+      "romanized": "Al-Mu'jiza"
+    },
+    {
+      "arabic": "الذبيح",
+      "romanized": "Al-Dhabih"
+    },
+    {
+      "arabic": "المنتقم",
+      "romanized": "Al-Muntaqim"
+    },
+    {
+      "arabic": "المجيد",
+      "romanized": "Al-Majid"
+    },
+    {
+      "arabic": "الماهر",
+      "romanized": "Al-Mahir"
+    },
+    {
+      "arabic": "المستجاب",
+      "romanized": "Al-Mustajab"
+    },
+    {
+      "arabic": "الفضل",
+      "romanized": "Al-Fadl"
+    },
+    {
+      "arabic": "الواسع",
+      "romanized": "Al-Wasi'"
+    },
+    {
+      "arabic": "المؤيد",
+      "romanized": "Al-Mu'ayyad"
+    },
+    {
+      "arabic": "المبشر",
+      "romanized": "Al-Mubashir"
+    },
+    {
+      "arabic": "المخلص",
+      "romanized": "Al-Mukhlis"
+    },
+    {
+      "arabic": "المرسل",
+      "romanized": "Al-Mursil"
+    },
+    {
+      "arabic": "الذكي",
+      "romanized": "Al-Dhaki"
+    },
+    {
+      "arabic": "الشفيع",
+      "romanized": "Ash-Shafi'"
+    },
+    {
+      "arabic": "الناصح",
+      "romanized": "An-Nasih"
+    },
+    {
+      "arabic": "المعصوم",
+      "romanized": "Al-Masum"
+    },
+    {
+      "arabic": "النبوة",
+      "romanized": "An-Nubuwwa"
+    },
+    {
+      "arabic": "الجميل",
+      "romanized": "Al-Jamil"
+    },
+    {
+      "arabic": "الناجح",
+      "romanized": "An-Najih"
+    },
+    {
+      "arabic": "النافع",
+      "romanized": "An-Nafi'"
+    },
+    {
+      "arabic": "الرفيع",
+      "romanized": "Ar-Rafi'"
+    },
+    {
+      "arabic": "الذيذ",
+      "romanized": "Al-Thidh"
+    },
+    {
+      "arabic": "الذيذ",
+      "romanized": "Al-Thidh"
+    },
+    {
+      "arabic": "الحكيم",
+      "romanized": "Al-Hakim"
+    },
+    {
+      "arabic": "الرحيم",
+      "romanized": "Ar-Rahim"
+    },
+    {
+      "arabic": "المستغفر",
+      "romanized": "Al-Mustaghfir"
+    },
+    {
+      "arabic": "البصير",
+      "romanized": "Al-Basir"
+    },
+    {
+      "arabic": "الذيذ",
+      "romanized": "Al-Thidh"
+    },
+    {
+      "arabic": "الذيذ",
+      "romanized": "Al-Thidh"
+    },
+    {
+      "arabic": "المحبوب",
+      "romanized": "Al-Mahbub"
+    },
+    {
+      "arabic": "القدير",
+      "romanized": "Al-Qadir"
+    },
+    {
+      "arabic": "المجيد",
+      "romanized": "Al-Majid"
+    },
+    {
+      "arabic": "القدير",
+      "romanized": "Al-Qadir"
+    },
+    {
+      "arabic": "الأحد",
+      "romanized": "Al-Ahad"
+    },
+    {
+      "arabic": "الواحد",
+      "romanized": "Al-Wahid"
+    },
+    {
+      "arabic": "الصمد",
+      "romanized": "As-Samad"
+    },
+    {
+      "arabic": "الخالقة",
+      "romanized": "Al-Khaliq"
+    },
+    {
+      "arabic": "البارئ",
+      "romanized": "Al-Bari'"
+    },
+    {
+      "arabic": "المصور",
+      "romanized": "Al-Musawwir"
+    },
+    {
+      "arabic": "العدل",
+      "romanized": "Al-'Adl"
+    },
+    {
+      "arabic": "اللطيف",
+      "romanized": "Al-Latif"
+    },
+    {
+      "arabic": "الخبير",
+      "romanized": "Al-Khabir"
+    },
+    {
+      "arabic": "الحليم",
+      "romanized": "Al-Halim"
+    },
+    {
+      "arabic": "العظيم",
+      "romanized": "Al-Azim"
+    },
+    {
+      "arabic": "الغفور",
+      "romanized": "Al-Ghafur"
+    },
+    {
+      "arabic": "الشكور",
+      "romanized": "Ash-Shakur"
+    },
+    {
+      "arabic": "العلي",
+      "romanized": "Al-Ali"
+    },
+    {
+      "arabic": "الكبير",
+      "romanized": "Al-Kabir"
+    },
+    {
+      "arabic": "المقيت",
+      "romanized": "Al-Muqit"
+    },
+    {
+      "arabic": "الحفيظ",
+      "romanized": "Al-Hafiz"
+    },
+    {
+      "arabic": "المقيت",
+      "romanized": "Al-Muqit"
+    },
+    {
+      "arabic": "الحسيب",
+      "romanized": "Al-Hasib"
+    },
+    {
+      "arabic": "الجليل",
+      "romanized": "Al-Jalil"
+    },
+    {
+      "arabic": "الكريم",
+      "romanized": "Al-Karim"
+    },
+    {
+      "arabic": "الرقيب",
+      "romanized": "Ar-Raqib"
+    },
+    {
+      "arabic": "المجيب",
+      "romanized": "Al-Mujib"
+    },
+    {
+      "arabic": "الواسع",
+      "romanized": "Al-Wasi'"
+    },
+    {
+      "arabic": "الحكيم",
+      "romanized": "Al-Hakim"
+    },
+    {
+      "arabic": "الودود",
+      "romanized": "Al-Wadud"
+    },
+    {
+      "arabic": "المجيد",
+      "romanized": "Al-Majid"
+    },
+    {
+      "arabic": "الباعث",
+      "romanized": "Al-Ba'ith"
+    },
+    {
+      "arabic": "الشهيد",
+      "romanized": "Ash-Shahid"
+    },
+    {
+      "arabic": "الحق",
+      "romanized": "Al-Haqq"
+    },
+    {
+      "arabic": "الوكيل",
+      "romanized": "Al-Wakil"
+    },
+    {
+      "arabic": "القوي",
+      "romanized": "Al-Qawi"
+    },
+    {
+      "arabic": "المتين",
+      "romanized": "Al-Matin"
+    },
+    {
+      "arabic": "الولي",
+      "romanized": "Al-Wali"
+    },
+    {
+      "arabic": "الحميد",
+      "romanized": "Al-Hamid"
+    },
+    {
+      "arabic": "المحصي",
+      "romanized": "Al-Muhsi"
+    },
+    {
+      "arabic": "المبدئ",
+      "romanized": "Al-Mubdi'"
+    },
+    {
+      "arabic": "المعيد",
+      "romanized": "Al-Mu'id"
+    },
+    {
+      "arabic": "المحيي",
+      "romanized": "Al-Muhyi"
+    },
+    {
+      "arabic": "المميت",
+      "romanized": "Al-Mumit"
+    },
+    {
+      "arabic": "الحي",
+      "romanized": "Al-Hayy"
+    },
+    {
+      "arabic": "القيوم",
+      "romanized": "Al-Qayyum"
+    },
+    {
+      "arabic": "الواجد",
+      "romanized": "Al-Wajid"
+    },
+    {
+      "arabic": "المجيد",
+      "romanized": "Al-Majid"
+    },
+    {
+      "arabic": "الواح",
+      "romanized": "Al-Wahhab"
+    },
+    {
+      "arabic": "الرزاق",
+      "romanized": "Ar-Razzaq"
+    },
+    {
+      "arabic": "الفتاح",
+      "romanized": "Al-Fattah"
+    },
+    {
+      "arabic": "العليم",
+      "romanized": "Al-Alim"
+    },
+    {
+      "arabic": "الكبير",
+      "romanized": "Al-Kabir"
+    },
+    {
+      "arabic": "الحفيظ",
+      "romanized": "Al-Hafiz"
+    },
+    {
+      "arabic": "المقيت",
+      "romanized": "Al-Muqit"
+    },
+    {
+      "arabic": "الحسيب",
+      "romanized": "Al-Hasib"
+    }
+  ]
+}
